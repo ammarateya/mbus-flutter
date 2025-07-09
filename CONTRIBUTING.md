@@ -4,6 +4,7 @@ Thank you for considering contributing to MBus!
 
 ## Did you find a bug?
 
+test
 If you find a bug in M-Bus, first, create a new issue on GitHub. Make sure to include a detailed description of the bug and the steps to reproduce it.
 
 ## Did you fix a bug or add a new feature?
